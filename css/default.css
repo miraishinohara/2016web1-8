@@ -2,7 +2,20 @@
 
 body{
   background-color: mediumaquamarine;
-}  
+} 
+
+#logo ul {
+  overfolow: hidden;
+}
+
+#logo li {
+  float: left;
+  list-style-type: none;
+}
+
+#logo img {
+  width: 100px;
+}
 
 .breadcrumbs li {
   display: inline;
